@@ -1,15 +1,7 @@
 # Hello World! 👋 
 
 <h2>About me 🚀</h2>
-
-🫀 Me llamo Celia Taroncher y soy Española 🇪🇸
-
-
-
-🌱 Actualmente estudiando Desarrollo Web Frontend 👩🏻‍🎓  
-
-
-
+🌱 Actualmente estudiando Desarrollo Web 👩🏻‍🎓  
 
 
 ## 🔧 Technologies & Tools
