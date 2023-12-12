@@ -1,8 +1,8 @@
 # Hello World! 👋 
 
 <h2>About me 🚀</h2>
-🌱 Actualmente estudiando Desarrollo Web 👩🏻‍🎓  
-
+👩🏻‍🎓 Actually studing Web Development
+🌱 Preparing for AWS DevOps Professional Certification 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/GNU-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
