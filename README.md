@@ -1,7 +1,7 @@
 # Hello World! 👋 
 
 <h2>About me 🚀</h2>
-👩🏻‍🎓 Actually studing Web Development
+👩🏻‍🎓 Currently studing Web Development 
 
 🌱 Preparing for AWS DevOps Professional Certification 
 
